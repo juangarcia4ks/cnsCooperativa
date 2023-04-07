@@ -33,7 +33,7 @@
 			<header class="nav">
 				<div class="menu">
 					<!-- Enlaces de navegación -->
-					<a href="index.html">Dashboard</a>
+					<a href="dashboard.php">Dashboard</a>
 					<a href="#" class="active">Todas</a>
 					<a href="#">Producion</a>
 					<a href="#">Testing</a>
@@ -42,7 +42,7 @@
 					<div class="searchBox">
 						<i class="fas fa-search"></i>
 					</div>
-					<a href="index.html">Logout</a>
+					<a href="dashboard.php">Logout</a>
 				</div>
 			</header>
 			<!-- Contenido principal de la página -->
